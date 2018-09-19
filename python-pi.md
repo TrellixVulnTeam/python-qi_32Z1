@@ -5,3 +5,5 @@
 [学习量化交易如何入门？](https://www.zhihu.com/question/22211032)
 
 [用 Python 实现你的量化交易策略](https://blog.csdn.net/yyjava/article/details/81233264)
+
+[Tensorflow实例：利用LSTM预测股票每日最高价（一）](https://blog.csdn.net/mylove0414/article/details/55805974)
