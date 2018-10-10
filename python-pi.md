@@ -9,3 +9,5 @@
 [Tensorflow实例：利用LSTM预测股票每日最高价（一）](https://blog.csdn.net/mylove0414/article/details/55805974)
 
 [pip 升级出错](https://blog.csdn.net/u010100466/article/details/77248798)
+
+[下载并解压mnist数据集](https://blog.csdn.net/wuzhichenggo/article/details/79332128)
