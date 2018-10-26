@@ -15,3 +15,7 @@
 [【翻译】理解 LSTM 及其图示](https://www.cnblogs.com/xuruilong100/p/8506949.html)
 
 [量化与固收札记](https://www.cnblogs.com/xuruilong100/)
+
+[对线性回归，logistic回归和一般回归的认识](http://www.cnblogs.com/jerrylead/archive/2011/03/05/1971867.html)
+
+[softmax函数详解](https://www.cnblogs.com/alexanderkun/p/8098781.html)
