@@ -21,3 +21,5 @@
 [softmax函数详解](https://www.cnblogs.com/alexanderkun/p/8098781.html)
 
 [Sigmoid函数](https://blog.csdn.net/saltriver/article/details/57531963)
+
+[深度学习中的激活函数与梯度消失](https://www.cnblogs.com/willnote/p/6912798.html)
