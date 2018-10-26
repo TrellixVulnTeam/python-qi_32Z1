@@ -19,3 +19,5 @@
 [对线性回归，logistic回归和一般回归的认识](http://www.cnblogs.com/jerrylead/archive/2011/03/05/1971867.html)
 
 [softmax函数详解](https://www.cnblogs.com/alexanderkun/p/8098781.html)
+
+[Sigmoid函数](https://blog.csdn.net/saltriver/article/details/57531963)
