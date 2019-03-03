@@ -23,3 +23,7 @@
 [Sigmoid函数](https://blog.csdn.net/saltriver/article/details/57531963)
 
 [深度学习中的激活函数与梯度消失](https://www.cnblogs.com/willnote/p/6912798.html)
+
+[CNN(卷积神经网络)、RNN(循环神经网络)、DNN(深度神经网络)的内部网络结构的区别](https://www.cnblogs.com/softzrp/p/6434282.html)
+
+[为什么引入ReLU激活函数](https://blog.csdn.net/fredinators/article/details/79443386)
