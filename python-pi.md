@@ -1,5 +1,7 @@
 # python-qi资源
 ### 量化交易
+[Machine Learning Mastery](https://machinelearningmastery.com/)
+
 [PythonStock（13）：使用stockstats计算股票中的16个常用指标方法大全](https://blog.csdn.net/freewebsys/article/details/78578548)
 
 [学习量化交易如何入门？](https://www.zhihu.com/question/22211032)
@@ -23,3 +25,9 @@
 [Sigmoid函数](https://blog.csdn.net/saltriver/article/details/57531963)
 
 [深度学习中的激活函数与梯度消失](https://www.cnblogs.com/willnote/p/6912798.html)
+
+[CNN(卷积神经网络)、RNN(循环神经网络)、DNN(深度神经网络)的内部网络结构的区别](https://www.cnblogs.com/softzrp/p/6434282.html)
+
+[为什么引入ReLU激活函数](https://blog.csdn.net/fredinators/article/details/79443386)
+
+[tensorflow入门笔记(八)神经元，激活函数](https://blog.csdn.net/rookie_wei/article/details/80428297)
