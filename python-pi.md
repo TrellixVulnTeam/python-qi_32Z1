@@ -31,3 +31,5 @@
 [为什么引入ReLU激活函数](https://blog.csdn.net/fredinators/article/details/79443386)
 
 [tensorflow入门笔记(八)神经元，激活函数](https://blog.csdn.net/rookie_wei/article/details/80428297)
+
+[visualization of filters keras 基于Keras的卷积神经网络（CNN）可视化](https://www.cnblogs.com/bnuvincent/p/9612686.html)
